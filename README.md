@@ -31,9 +31,9 @@ On this challenge we must implement textview on app.
      <td>Adding Textview</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_basic_add_textview.png" width=270 height=180></td>
+    <td><img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_basic_add_textview.png" height=180></td>
     <td>
-      <img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_add_text_view_implement.png" width=270 height=180>
+      <img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_add_text_view_implement.png" height=180>
     </td>
   </tr>
  </table>
@@ -46,10 +46,14 @@ On this challenge we must implement a button with constraint layout.
     <td>Implement Adding constraint</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_basic_adding_constraint.png" width=270 height=180></td>
-    <td><img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_implement_adding_constraint.png" width=270 height=180></td>
+    <td><img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_basic_adding_constraint.png" height=180></td>
+    <td><img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_implement_adding_constraint.png" height=180></td>
   </tr>
 </table>
+
+## Challenge 4 : Adding Id
+On this challenge we must make id for the textview.
+<img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_adding_id.png" height=180/>
 
 ### Authors
 

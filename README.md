@@ -13,11 +13,12 @@ On this challenge we must analyze what the app must we build when looking image 
   <tr>
     <td><img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_basic_todo_list.png" width=270 height=480></td>
     <td>
-      <h2>* 1 Activity</h2>
-      <h2>* 1 Textview for Score on top left side</h2>
-      <h2>* 1 Textview for Time Left on top right side</h2>
-      <h2>* 1 Button + Text On Button on center of activity</h2>
-      <h2>* Appbar Textcolor #FFFFFF</h2>
+      <h4>* 1 Activity</h4>
+      <h4>* 1 Textview for Score on top left side</h4>
+      <h4>* 1 Textview for Time Left on top right side</h4>
+      <h4>* 1 Button + Text On Button on center of activity</h4>
+      <h4>* Appbar Textcolor #FFFFFF</h4>
+      <h4>* Adding Menu on Appbar</h4>
     </td>
   </tr>
  </table>

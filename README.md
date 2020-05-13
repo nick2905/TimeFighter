@@ -73,6 +73,10 @@ On this challenge we must set value of score is 0. So i make it using data bindi
 <br>
 <img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_display_starting_score.png" height=180/>
 
+## Challenge 8 : Trigger Log Statement
+On this challange we must showing an information from logcat that our data has change because configuration navigation. But im using data binding for showing score and time left. So the logcat didn't show anything and the app is normal when changed rotation.
+<br>
+<img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_trigger_log_statement.png" height=210/>
 
 ### Authors
 

@@ -22,7 +22,7 @@ On this challenge we must analyze what the app must we build when looking image 
     </td>
   </tr>
  </table>
-https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_add_text_view_implement.png
+
 ## Challenge 2 : Adding Textview
 On this challenge we must implement textview on app.
 <table>
@@ -31,12 +31,25 @@ On this challenge we must implement textview on app.
      <td>Adding Textview</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_basic_add_textview.png" width=270 height=240></td>
+    <td><img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_basic_add_textview.png" width=270 height=180></td>
     <td>
-      <img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_add_text_view_implement.png" width=270 height=240>
+      <img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_add_text_view_implement.png" width=270 height=180>
     </td>
   </tr>
  </table>
+
+## Challenge 3 : Adding a Constraint
+On this challenge we must implement a button with constraint layout.
+<table>
+  <tr>
+    <td>Design</td>
+    <td>Implement Adding constraint</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_basic_adding_constraint.png" width=270 height=180></td>
+    <td><img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_implement_adding_constraint.png" width=270 height=180></td>
+  </tr>
+</table>
 
 ### Authors
 

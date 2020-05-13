@@ -61,6 +61,14 @@ On this challenge we must add string on text into id on the resource, res/values
 <br>
 <img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_adding_string.png" height=180/>
 
+## Challenge 6 : Add a property
+On this challenge we must ad property to textview and the button. But i have been using viewbinding, so we can use the layout without initialize again.
+```
+viewBinding {
+        enabled = true
+    }
+```
+
 ### Authors
 
 * **Nicolas Manurung** - *Institut Teknologi Del Student* 

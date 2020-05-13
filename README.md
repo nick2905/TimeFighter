@@ -53,7 +53,13 @@ On this challenge we must implement a button with constraint layout.
 
 ## Challenge 4 : Adding Id
 On this challenge we must make id for the textview.
+<br>
 <img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_adding_id.png" height=180/>
+
+## Challenge 5 : Adding a New String Resource
+On this challenge we must add string on text into id on the resource, res/values/string.xml.
+<br>
+<img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_adding_string.png" height=180/>
 
 ### Authors
 

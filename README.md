@@ -22,7 +22,21 @@ On this challenge we must analyze what the app must we build when looking image 
     </td>
   </tr>
  </table>
-
+https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_add_text_view_implement.png
+## Challenge 2 : Adding Textview
+On this challenge we must implement textview on app.
+<table>
+  <tr>
+    <td>Design</td>
+     <td>Adding Textview</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_basic_add_textview.png" width=270 height=240></td>
+    <td>
+      <img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_add_text_view_implement.png" width=270 height=240>
+    </td>
+  </tr>
+ </table>
 
 ### Authors
 

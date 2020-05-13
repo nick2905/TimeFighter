@@ -62,12 +62,17 @@ On this challenge we must add string on text into id on the resource, res/values
 <img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_adding_string.png" height=180/>
 
 ## Challenge 6 : Add a property
-On this challenge we must ad property to textview and the button. But i have been using viewbinding, so we can use the layout without initialize again.
+On this challenge we must add property to textview and the button. But i have been using viewbinding, so we can use the layout without initialize again.
 ```
 viewBinding {
         enabled = true
     }
 ```
+## Challenge 7 : Adding Started Score
+On this challenge we must set value of score is 0. So i make it using data binding with viewmodel and livedata. So when the button is clicked the score can be update from livedata and when i do configuration change that still there.
+<br>
+<img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_display_starting_score.png" height=180/>
+
 
 ### Authors
 

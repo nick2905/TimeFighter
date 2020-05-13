@@ -8,7 +8,9 @@ android {
     viewBinding {
         enabled = true
     }
-
+    dataBinding {
+        enabled = true
+    }
     defaultConfig {
         applicationId "com.proyek.akhir.timefighter"
         minSdkVersion 21
@@ -37,5 +39,10 @@ dependencies {
     testImplementation 'junit:junit:4.13'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+
+    // ViewModel
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0"
+    // LiveData
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.2.0"
 
 }

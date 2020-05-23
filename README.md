@@ -83,6 +83,11 @@ On this challenge we must change textview color into black and background color 
 <br>
 <img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_changing_colors.png" height=210/>
 
+## Challenge 10 : Adding an animation
+On this challenge we must create an animation blink animation for score and bouncing animation on button "Tap Me Here!"
+<br>
+<img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_add_an_animation.png" height=210/>
+
 ### Authors
 
 * **Nicolas Manurung** - *Institut Teknologi Del Student* 

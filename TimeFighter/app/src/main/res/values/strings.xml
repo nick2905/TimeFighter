@@ -3,6 +3,9 @@
     <string name="yourScore">Your Score : </string>
     <string name="timeLeft">Time Left : %1$d</string>
     <string name="tap_me">Tap Me!</string>
+    <string name="about_menu">About Menu</string>
+    <string name="aboutTitle">TimeFighter</string>
+    <string name="aboutSubtile">Made by Nicolas Manurung for completing course on Raywenderlich.com</string>
 </resources>
 
 

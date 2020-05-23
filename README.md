@@ -78,6 +78,11 @@ On this challange we must showing an information from logcat that our data has c
 <br>
 <img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_trigger_log_statement.png" height=210/>
 
+## Challenge 9 : Changing Colors
+On this challenge we must change textview color into black and background color into some color.
+<br>
+<img src="https://github.com/nick2905/TimeFighter/blob/master/screenshot/challenge_changing_colors.png" height=210/>
+
 ### Authors
 
 * **Nicolas Manurung** - *Institut Teknologi Del Student* 

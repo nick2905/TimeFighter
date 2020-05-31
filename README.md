@@ -3,6 +3,10 @@
 This application is a submission for working on the "Your First Kotlin Android App" challenge from [Raywenderlich](https://www.raywenderlich.com/4936497-your-first-kotlin-android-app).
 And as one of the requirements to take part in MamiCamp 2020 organized by [Mamikos](https://mamikos.com/).
 
+### Publish On Playtore
+
+<a href='https://play.google.com/store/apps/details?id=com.proyek.akhir.timefighter&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
 ## Challenge 1 : Produce a todo list
 On this challenge we must analyze what the app must we build when looking image of design.
 <table>
